@@ -6,7 +6,8 @@
 
  <p>- <i>Joven amante de la vida, el aprendizaje y los pequeños momentos, Proximamente Desarrollador Web Stack MERN, pero con intenciones de Aprender hasta que la vida lo permita </i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align
+="right" />
 
 ## ⚡🙋‍♂️ Sobre mi:
 
@@ -33,7 +34,7 @@
 <div align="center"> 
 <a href="https://www.instagram.com/mashiantx._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.valdiviamaximiliano20@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-&logoColor=white" target="_blank"></a>
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"style="border-radius: 30px" target="_blank"></a> 
  </div>
  
