@@ -15,7 +15,8 @@
 - 🌱 Cursando Bootcamp DWFS de UDD
 - 😄 Pronombre: he/him
 - 📫 Contacto: Valdiviamaximiliano20@gmail.com
-- 👾 Desarrollador Web y Quimico Industrial 
+- 👾 Desarrollador Web y Quimico Industrial
+- ❤️ Incluso la noche más oscura terminará con la salida del sol
 <hr>
 
 
@@ -31,7 +32,8 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/mashiantx._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.valdiviamaximiliano20@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.valdiviamaximiliano20@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail
+&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
