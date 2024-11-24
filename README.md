@@ -5,6 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Maximiliano+Valdivia...;Tengo+18+años+...;Estudiante+de+Desarrollo+Web+..."/>
 
+
  <p>- <i>Joven amante de la vida, el aprendizaje y los pequeños momentos, Proximamente Desarrollador Web Stack MERN, pero con intenciones de Aprender hasta que la vida lo permita </i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align
