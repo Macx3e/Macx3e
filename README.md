@@ -15,7 +15,7 @@
 
 </br>
 
-- 🌱 Cursando Bootcamp DWFS de UDD
+- 🌱 Cursando Bootcamp DWFS de UDD, Cursando Carrera de Ingeniería civil en computacion e informática
 - 😄 Pronombre: he/him
 - 📫 Contacto: Valdiviamaximiliano20@gmail.com
 - 👾 Desarrollador Web y Quimico Industrial
@@ -40,13 +40,15 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
  
-### Main skills soon:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,react,nodejs)](https://skillicons.dev)
+### Habilidades principales pronto:
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 
-### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+### Estudiando este momento:
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
+### Habilidades aprendidas
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
