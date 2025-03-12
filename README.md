@@ -18,7 +18,7 @@
 - 🌱 Cursando Bootcamp DWFS de UDD, Cursando Carrera de Ingeniería civil en computacion e informática
 - 😄 Pronombre: he/him
 - 📫 Contacto: Valdiviamaximiliano20@gmail.com
-- 👾 Desarrollador Web y Quimico Industrial
+- 👾 Desarrollador Web 
 - ❤️ Incluso la noche más oscura terminará con la salida del sol
 <hr>
 
