@@ -50,7 +50,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ### Habilidades aprendidas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb)](https://skillicons.dev)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
